@@ -191,6 +191,6 @@ This lab covers:
 
 
 ### 🎯 Next Steps:  
-- Explore **Group Policy (GPO) configuration**.  
+- Explore **[Group Policy (GPO) configuration](https://github.com/tameya-w/azure-network-protocols)**.  
 - Set up **File Sharing & Permissions**.  
 - Implement **Basic AD Security Policies**.  
